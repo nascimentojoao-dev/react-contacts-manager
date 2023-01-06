@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/nascimentojoao-dev/react-contacts-manager.git/static/css/main.1824b995.css",
-    "main.js": "/nascimentojoao-dev/react-contacts-manager.git/static/js/main.128b9a8b.js",
-    "index.html": "/nascimentojoao-dev/react-contacts-manager.git/index.html",
-    "main.1824b995.css.map": "/nascimentojoao-dev/react-contacts-manager.git/static/css/main.1824b995.css.map",
-    "main.128b9a8b.js.map": "/nascimentojoao-dev/react-contacts-manager.git/static/js/main.128b9a8b.js.map"
+    "main.css": "/nascimentojoao-dev/react-contacts-manager/static/css/main.1824b995.css",
+    "main.js": "/nascimentojoao-dev/react-contacts-manager/static/js/main.128b9a8b.js",
+    "index.html": "/nascimentojoao-dev/react-contacts-manager/index.html",
+    "main.1824b995.css.map": "/nascimentojoao-dev/react-contacts-manager/static/css/main.1824b995.css.map",
+    "main.128b9a8b.js.map": "/nascimentojoao-dev/react-contacts-manager/static/js/main.128b9a8b.js.map"
   },
   "entrypoints": [
     "static/css/main.1824b995.css",
